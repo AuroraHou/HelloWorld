@@ -8,6 +8,7 @@ import androidx.core.view.WindowInsetsCompat
 import android.widget.ImageView
 
 class MainActivity : AppCompatActivity() {
+    //Declare an ImageView variable
     private lateinit var ingView: ImageView
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
